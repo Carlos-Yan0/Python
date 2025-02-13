@@ -58,3 +58,5 @@ if pessoas.idade < 21:
 
 #escreve as informações na tela
 print(f"nome: {pessoas.nome}\nIdade:{pessoas.idade}\nPeso:{pessoas.peso}\nAltura:{pessoas.altura}Cm")
+
+#Teste novice
