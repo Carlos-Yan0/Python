@@ -1,7 +1,6 @@
 frase = str(input("Digite alguma coisa e veja se é um palindromo: ")).upper().strip()
 palavras = frase.split()
 junto = "".join(palavras)
-print(junto)
 palindromo = junto[::-1]
 
 if junto == palindromo:
